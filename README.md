@@ -1,6 +1,6 @@
 # Breast Cancer Classification
 
-This project aims to develop a breast cancer classification system using machine learning techniques. The goal is to accurately classify breast tumors as either malignant or benign based on various features extracted from medical images and patient data.
+This project aims to develop a breast cancer classification system using *Logistic Regression* technique. The goal is to accurately classify breast tumors as either malignant or benign based on various features extracted from medical images and patient data.
 
 ## Introduction
 
