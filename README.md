@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 The model's performance is evaluated using various evaluation metrics, such as accuracy, precision, recall, and F1 score. The evaluation results are displayed and discussed in the project notebooks.
 
-## Result
+## Results
 
 <img src="results/breast cancer classification report.png" width="500"/>
 
