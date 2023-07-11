@@ -39,6 +39,10 @@ To run this project locally, follow these steps:
 
 The model's performance is evaluated using various evaluation metrics, such as accuracy, precision, recall, and F1 score. The evaluation results are displayed and discussed in the project notebooks.
 
+## Result
+
+<img src="results/breast cancer classification report.png" width="500"/>
+
 ## Conclusion
 
 Breast Cancer Classification is an important task in the field of medical imaging analysis. A reliable and accurate classification system can assist healthcare professionals in making informed decisions. This project aims to contribute to the development of such systems.
